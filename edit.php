@@ -19,7 +19,7 @@ $id =$_GET['id'];
     <br>
       <div class="container">
         <div class="starter-template">
-          <h1>Small CRUD</h1>
+          <h1>Small Register</h1>
           <p class="lead">O que deseja alterar?</p>
         </div>
       </div><!-- /.container -->
